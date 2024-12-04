@@ -1,7 +1,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Hwaniniil's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <p align="center">
-  Hello! I'm Hwani! <br>
+  Hello! I'm Hwanhwi! <br>
   I want to be a data scientist!
 
 </p> <!-- p 테그 닫기 -->
