@@ -12,5 +12,4 @@
 
 <br>
 
-<!--백준-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwaniniil)](https://solved.ac/hwaniniil/)
+![Programmers Badge](https://raw.githubusercontent.com/Hwaniniil/Programmers_Badge_Generator/main/result/result.svg)
