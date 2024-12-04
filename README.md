@@ -13,3 +13,7 @@
 <br>
 
 ![Programmers Badge](https://raw.githubusercontent.com/Hwaniniil/Programmers_Badge_Generator/main/result/result.svg)
+
+<br>
+
+<a href="https://www.instagram.com/hwaniniil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
