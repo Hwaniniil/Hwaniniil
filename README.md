@@ -10,9 +10,12 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwaniniil)
 
-<br>
 
-![Programmers Badge](https://raw.githubusercontent.com/Hwaniniil/Programmers_Badge_Generator/main/result/result.svg)
+
+<br>
+<!--
+# 프로그래머스
+![Programmers Badge](https://raw.githubusercontent.com/Hwaniniil/Programmers_Badge_Generator/main/result/result.svg) -->
 
 <br>
 
